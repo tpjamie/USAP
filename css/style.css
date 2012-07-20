@@ -1,0 +1,1047 @@
+body {
+     background: none;
+     font-family: Open Sans, Arial,Helvetica,Sans-Serif;
+     font-size: 11pt;
+     margin: 0pt;
+     padding: 0pt;
+}
+
+.clear {
+     clear: both;
+     height: 0px;
+}
+
+a {
+	color: #2180CE;
+	outline: medium none;
+	text-decoration: none;	 
+}
+
+a img {
+     border: medium none;
+}
+
+h2 {
+     color: #FFFFFF;
+     margin: 0pt;
+     padding: 10px 0pt;
+}
+
+h3 {
+     color: #FFFFFF;
+     font-size: 0.9em;
+     font-weight: bold;
+     margin: 0pt;
+     padding: 3px 0pt 0pt;
+}
+
+#main_wrap {
+     background: url("images/back.jpg") repeat-x scroll center top #003166;
+}
+
+#main {
+     background: url("images/header_back.jpg") no-repeat scroll right top transparent;
+     margin: 0pt auto;
+     padding: 0pt 0pt 20px;
+     width: 980px;
+}
+
+.brand-wrap {
+     background: url("images/subtle_freckles.png") repeat scroll right top transparent;
+     border-bottom: 1px solid #7FC05A;
+     padding: 15px 0pt;
+}
+
+.brand-wrap img {
+     left: 50%;
+     margin-left: -500px;
+     position: relative;
+}
+
+.logo {
+     float: left;
+	 padding:0px;
+}
+
+ul.nav {
+     list-style: none outside none;
+     margin: 0pt;
+     padding: 26px 0pt 0pt 280px;
+}
+
+ul.nav li {
+     color: #003166;
+     float: left;
+     margin: 0pt;
+     padding: 0pt;
+}
+
+ul.nav li a {
+     border-radius: 6px 6px 6px 6px;
+     color: #003166;
+     display: block;
+     float: left;
+     font-weight: 400;
+     margin: 0pt 10px 0pt 0pt;
+     padding: 6px;
+     text-decoration: none;
+}
+
+ul.nav li a:hover {
+     background: none repeat scroll 0% 0% #003166;
+     color: #FFFFFF;
+}
+
+#banner {
+     background: url("images/re_top.jpg") no-repeat scroll center top #F0F5F7;
+     font-family: Trebuchet MS,Arial,Helvetica,Sans-Serif;
+     margin-top: 40px;
+     padding: 20px 20px 4px;
+}
+
+#banner.travel {
+     font-family: Open Sans,Arial,Helvetica,Sans-Serif;
+}
+
+#banner.subpage {
+     font-family: Open Sans, Arial,Helvetica,Sans-Serif;
+     padding: 20px 60px 44px;
+}
+
+#slider {
+     float: right;
+     height: 298px;
+}
+
+#banner h1 {
+     color: #333333;
+     font-weight: normal;
+     margin: 0pt;
+     padding: 10px 0pt;
+}
+
+#banner .highlights {
+     height: 134px;
+}
+
+#banner p {
+     color: #666666;
+     margin: 0pt;
+     padding: 10px 0pt 0pt 4px;
+}
+
+#banner_bottom {
+     background: none;
+     height: 16px;
+     margin-bottom: 30px;
+}
+
+#action_wrap {
+     background: url("images/indent.jpg") repeat-x scroll center top transparent;
+     margin-top: 30px;
+     padding: 20px 0pt 0pt;
+     width: 400px;
+}
+
+.bottom-content {
+     padding: 20px 0pt;
+}
+
+.bottom-content h4 {
+     color: #FFFFFF;
+     font-size: 1.8em;
+     font-weight: normal;
+     margin: 0pt;
+     padding: 28px 0pt 0pt;
+}
+
+.bottom-content p {
+     border-bottom: 1px solid #01284F;
+     color: #6E99C3;
+     font-size: 1.1em;
+     line-height: 1.5em;
+     margin: 0pt;
+     padding: 20px 20px 20px 15px;
+}
+
+a.join-btn {
+     background: url("images/join-spt.jpg") no-repeat scroll center top transparent;
+     display: block;
+     float: left;
+     height: 60px;
+     margin: 0pt auto;
+     width: 241px;
+}
+
+a.join-btn:hover {
+     background-position: center -60px;
+}
+
+.price {
+     text-align: center;
+     width: 160px;
+}
+
+#banner .price p {
+     color: #003166;
+     font-size: 0.9em;
+     margin: 0pt;
+     padding: 0pt;
+}
+
+table.overview {
+     margin: 20px 0pt;
+}
+
+table.overview ul {
+     font-size: 0.8em;
+     list-style: none outside none;
+     margin: 0pt;
+     padding: 2px 1px 6px;
+}
+
+a.tour {
+     display: none;
+}
+
+#banner.travel h1 {
+     color: #6EAB4C;
+     font-size: 3em;
+     padding-bottom: 5px;
+}
+
+#banner.travel h4 {
+     font-size: 1.2em;
+     font-weight: normal;
+     margin: 20px 0pt 0pt;
+}
+
+#banner.travel p {
+     font-size: 0.9em;
+     line-height: 2.5em;
+     padding: 25px 35px 0pt 0pt;
+     width: 400px;
+}
+
+.travel #action_wrap {
+     background: url("images/indent.jpg") repeat-x scroll center top transparent;
+     float: left;
+     margin-top: 30px;
+     padding: 30px 0pt 0pt;
+     text-align: center;
+     width: 100%;
+}
+
+#banner.travel .price p {
+     color: #003166;
+     font-size: 0.9em;
+     margin: 0pt;
+     padding: 0pt;
+     width: auto;
+}
+
+.travel a.join-btn {
+     background: url("images/join-spt.jpg") no-repeat scroll center top transparent;
+     display: block;
+     float: left;
+     height: 60px;
+     margin: 0pt 0pt 0pt 29%;
+     width: 241px;
+}
+
+#banner.travel a.tour {
+     display: block;
+     float: left;
+     height: 45px;
+     margin-left: 25px;
+     padding: 15px 0pt;
+     position: relative;
+}
+
+#banner.travel a.tour:hover {
+     text-decoration: none;
+}
+
+#banner.travel .price {
+     margin-bottom: 20px;
+     width: 100%;
+	 float:left;
+}
+
+#banner.travel .price p {
+     display: inline;
+     width: 100%;
+}
+
+.travel .price {
+     margin: 0pt auto;
+}
+
+a.join-btn:hover {
+     background-position: center -60px;
+}
+
+table.overview ul li {
+     margin-top: 2px;
+}
+
+table.overview ul li a {
+     color: #577CA5;
+     margin-top: 5px;
+     text-decoration: none;
+}
+
+table.overview ul li a:hover {
+     color: #7295BB;
+     text-decoration: underline;
+}
+
+table.overview td {
+     border-right: 1px solid #FFFFFF;
+     padding: 0pt 20px;
+     width: 30%;
+}
+
+table.overview td.last {
+     border: medium none;
+}
+
+table.overview td.first {
+     padding-left: 0pt;
+}
+
+.sub {
+     background: url("images/sub_re_top.jpg") no-repeat scroll center top #335A85;
+     color: #CCCCCC;
+     float: right;
+     width: 341px;
+}
+
+.sub p {
+     font-size: 0.8em;
+     margin: 0pt;
+     padding: 0pt 0pt 3px;
+}
+
+.sub input {
+     border: 1px solid #003166;
+     padding: 4px;
+}
+
+.sub_bottom {
+     background: url("images/sub_re_bottom.jpg") no-repeat scroll center top transparent;
+     height: 11px;
+}
+
+.sub .content {
+     padding: 20px 20px 9px;
+}
+
+.login {
+     border-top: 1px solid #CCCCCC;
+     margin: 20px 0pt 0pt;
+     padding: 20px 0pt 0pt;
+}
+
+.login .left {
+     float: left;
+     padding-right: 8px;
+}
+
+.login h3 {
+     padding: 0pt 0pt 6px;
+}
+
+.login input {
+     margin: 0pt 0pt 6px;
+}
+
+input.btn {
+	 background: #2180CE;
+     background: -moz-linear-gradient(center top , #33A0E8, #2180CE) repeat scroll 0pt 0pt transparent;
+	 background: -webkit-linear-gradient(#33A0E8, #2180CE) repeat scroll 0pt 0pt transparent;
+	 font-family:Open Sans;
+	 border-color: #2270AB #18639A #0F568B;
+     border-radius: 2px 2px 2px 2px;
+     border-style: solid;
+     border-width: 1px;
+     box-shadow: 0pt 1px 1px rgba(0, 0, 0, 0.3), 0pt 1px 0pt #83C5F1 inset;
+     color: #FFFFFF;
+     color: #fff;
+     cursor: pointer;
+     padding: 2px;
+}
+
+.social {
+     border-top: 1px solid #CCCCCC;
+     margin: 20px 0pt 0pt;
+     padding: 20px 0pt 0pt;
+}
+
+#footer {
+     /*background: url("images/nbfsa.jpg") no-repeat scroll left 20px transparent;*/
+     margin: 0pt auto;
+     padding: 20px 0pt 40px;
+     width: 980px;
+	 clear: both;
+}
+
+#footer .right {
+     background: url("images/digi.jpg") no-repeat scroll right top transparent;
+     color: #CCCCCC;
+     float: right;
+     font-size: 0.8em;
+     padding: 40px 0pt 0pt;
+     text-align: right;
+     width: 300px;
+}
+
+#footer a {
+     color: #999999;
+     text-decoration: none;
+}
+
+#footer a:hover {
+     text-decoration: underline;
+}
+
+#banner.subpage p {
+     margin: 0pt;
+     padding: 10px 0pt 40px;
+}
+
+.product {
+     background: url("images/indent.jpg") repeat-x scroll center bottom transparent;
+     margin: 0pt 0pt 20px;
+     padding: 0pt 0pt 20px;
+}
+
+.product a {
+     font-size: 0.9em;
+}
+
+.product img {
+     float: left;
+     margin-right: 30px;
+     margin-top: 3px;
+}
+
+#banner.subpage .product p {
+     font-size: 0.8em;
+     margin: 0pt;
+     padding: 6px 0pt 0pt;
+}
+
+.product h2 {
+     color: #333333;
+     font-size: 1em;
+     margin: 0pt;
+     padding: 0pt;
+}
+
+#banner.subpage #about p {
+     font-size: 0.9em;
+     line-height: 1.4em;
+     margin: 0pt;
+     padding: 20px 0pt 0pt;
+}
+
+table.form {
+     background: none repeat scroll 0% 0% #FFFFFF;
+     color: #666666;
+     padding: 10px;
+}
+
+table.form td {
+     border-bottom: 1px dotted #CCCCCC;
+     padding: 3px 0pt 14px;
+     vertical-align: top;
+}
+
+table.form td.title {
+     color: #333333;
+     padding-top: 16px;
+     vertical-align: top;
+}
+
+table.form td.last {
+     padding-top: 12px;
+}
+
+.field.block {
+     display: block;
+     width: 100%;
+}
+
+.field b {
+     display: block;
+     font-size: 0.76em;
+     font-weight: normal;
+}
+
+.explain {
+     border: 1px solid #CCCCCC;
+     font-size: 0.7em;
+     padding: 4px;
+}
+
+.enroll a {
+     background: url("images/finish-spt.jpg") no-repeat scroll center top transparent;
+     cursor: pointer;
+     display: block;
+     float: right;
+     height: 34px;
+     width: 114px;
+}
+
+.continue a:hover {
+     background-position: center -35px;
+}
+
+table.order_details {
+     background: none repeat scroll 0% 0% #FFFFFF;
+     font-size: 0.8em;
+     padding: 10px;
+     width: 100%;
+}
+
+table.order_details th {
+     background: none repeat scroll 0% 0% #F2F2F2;
+     color: #333333;
+     padding: 4px;
+     text-align: left;
+}
+
+table.order_details td {
+     color: #666666;
+     padding: 4px;
+     text-align: left;
+}
+
+#billing_info {
+     background: none repeat scroll 0% 0% #FFFFFF;
+     padding: 20px 10px;
+}
+
+.red {
+     color: green;
+}
+
+#authorization {
+     border-top: 1px dotted #CCCCCC;
+}
+
+#payment_explain {
+     font-size: 0.8em;
+     height: 30px;
+     padding: 0pt 0pt 10px 430px;
+}
+
+h2.auth {
+     color: #333333;
+     font-size: 0.8em;
+}
+
+p.auth {
+     color: #666666;
+     font-size: 0.8em;
+}
+
+input.fail {
+     border-color: #FF0000!important;
+}
+
+.error {
+     background: url("images/allert.gif") no-repeat scroll 10px 10px #FFF4F4;
+     border: 1px solid #FFDFDF;
+     color: #000000;
+     display: none;
+     font-size: 0.8em;
+     margin: 10px 0pt;
+     padding: 10px 4px 10px 50px;
+     width: 585px;
+}
+
+#banner.subpage .error p {
+     margin: 0pt;
+     padding: 0pt;
+}
+
+#banner.options {
+     background: url("images/options_hero.jpg") no-repeat scroll 0% 0% transparent;
+     height: 349px;
+     padding-left: 55px;
+}
+
+#banner.options .option {
+     background: none repeat scroll 0% 0% rgba(244, 244, 244, 0.85);
+     border-radius: 5px 5px 5px 5px;
+     border: 1px solid #C7C7C7;
+     float: left;
+     margin: 35px 2px 0pt 0pt;
+     position: relative;
+     width: 275px;
+}
+
+#banner.options .option h2 {
+     color: #444444;
+     text-align: center;
+     text-shadow: 1px 1px #FFFFFF;
+}
+
+#banner.options .option span.price {
+     border-bottom: 1px solid #CCCCCC;
+     color: #336699;
+     display: block;
+     font: 1.2em Arial,Sans-serif;
+     margin: 0pt auto;
+     padding: 0pt 0pt 10px;
+     text-align: center;
+     width: 90%;
+}
+
+#banner.options .option ul {
+     list-style-type: none;
+     margin: 15px 0pt 0pt;
+     padding: 0pt;
+     text-align: center;
+}
+
+#banner.options .option ul li {
+     font-size: 0.9em;
+     margin: 7px 0pt;
+}
+
+#banner.options .option p.feature {
+     color: #CC3300;
+     font-size: 0.9em;
+     font-weight: bold;
+     margin: 25px 0pt 2px;
+     padding: 0pt;
+     text-align: center;
+}
+
+#banner.options .option.legalplus {
+     height: 340px;
+     margin-top: 10px;
+     width: 300px;
+}
+
+a.benefits, a.benefits-right {
+     border-bottom: 1px dotted #003166;
+     color: #003166;
+     text-decoration: none;
+}
+
+a.choose-btn {
+     background: url("images/choose-spt.png") no-repeat scroll center top transparent;
+     display: block;
+     height: 51px;
+     margin: 10px 0pt;
+     opacity: 1 ! important;
+     padding: 0pt;
+     width: 100%;
+     z-index: 999;
+}
+
+a.choose-btn:hover {
+     background-position: center -52px;
+}
+
+.middle-content {
+     background: url("images/indent.jpg") repeat-x scroll 0% 0% #F0F5F7;
+     font-family: Open Sans;
+     margin: 0pt;
+     padding: 0pt 15px 55px;
+}
+
+.middle-content .left, .middle-content .middle, .middle-content .right {
+     float: left;
+     padding: 0px 15px;
+     position: relative;
+     width: 284px;
+}
+
+.middle-content h4 {
+     color: #6EAB4C;
+     font-size: 18pt;
+     margin: 0pt;
+     padding: 45px 0pt 25px;
+     text-align: center;
+}
+
+.middle-content p {
+     color: #666666;
+     font-size: 10pt;
+     line-height: 20pt;
+}
+
+#banner .tour, .content-tour {
+     font-family: Open Sans;
+}
+
+#banner.tour {
+     padding: 0pt;
+}
+
+.tour-hero {
+     background: url("images/tour-hero2.jpg") no-repeat scroll 0% 0% transparent;
+     height: 410px;
+     overflow: hidden;
+}
+
+.tour-hero-bold {
+     background: url("images/tour-hero2.jpg") no-repeat scroll 0% 0% transparent;
+     height: 410px;
+     overflow: hidden;
+}
+
+#banner.tour .tour-hero p {
+    color: #F5F5F5;
+    font-size: 1em;
+    line-height: 2.2em;
+    padding-bottom: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 0;
+    position: relative;
+    width: 400px;
+}
+
+#banner.tour .tour-hero h2 {
+     font-size: 4em;
+     font-weight: normal;
+     margin: 0pt;
+     padding: 45px 30px 0pt;
+     text-shadow: 1px 1px #444444;
+     width: 410px;
+}
+
+#banner.tour .tour-hero h4 {
+     color: #3F791F;
+     font-size: 2em;
+     font-weight: normal;
+     margin: 0pt;
+     padding: 15px 30px 25px;
+     text-shadow: 1px 1px #8BC46C;
+}
+
+#banner.tour .tour-hero a {
+     color: #003166;
+     font-size: 1em;
+     margin: 0pt;
+     padding-left:30px;
+}
+
+#banner.tour .tour-hero a:hover {
+    text-decoration:none;
+}
+
+.content-tour, .content-details {
+     background: none repeat scroll 0% 0% #F5F5F5;
+     margin: 45px 0pt 0pt;
+     padding: 0pt 30px;
+}
+
+.content-details {
+	padding:30px 30px;
+}
+
+.content-tour .details {
+     border-bottom: 1px solid #CDDEE5;
+     color: #666666;
+     padding: 30px 0px;
+}
+
+.content-tour .details h2 {
+     color: #444444;
+     font-size: 3.5em;
+     padding: 0pt 0pt 0px;
+     text-align: center;
+     text-shadow: 1px 1px #FFFFFF;
+}
+
+.content-tour .details h3 {
+     color: #6EAB4C;
+     font-size: 1.5em;
+     font-weight: normal;
+     padding: 10pt 0pt 0pt;
+     text-align: center;
+}
+
+.content-tour .details .price {
+     float: right;
+     width: 200px;
+}
+
+.content-tour .details .price .dollar, .content-tour .details .price .cents {
+     font-size: 8pt;
+     position: relative;
+     top: -3px;
+}
+
+.content-tour .tour-block {
+     border-bottom: 1px solid #CDDEE5;
+     border-top: 1px solid #FFFFFF;
+     float: left;
+	 width:920px;
+     padding: 90px 0;
+     position: relative;
+}
+
+.content-tour .tour-block img {
+     float: left;
+     margin-right: 30px;
+     width: auto;
+}
+
+.content-tour .tour-block.right img {
+     float: right;
+     margin-left: 30px;
+     margin-right: 0pt;
+     width: auto;
+}
+
+.content-tour .tour-block h4, .content-details .details-block h2 {
+     color: #6EAB4C;
+     font-size: 2.2em;
+     font-weight: normal;
+     margin: 0pt;
+     padding: 15px 0pt 0pt;
+}
+
+.content-details .details-block div h2 {
+	font-size:1.2em;
+	color:#444;
+	font-weight:bold;
+}
+
+.content-details .details-block div a, .content-details .details-block div p strong {
+	display:none;
+}
+
+.content-details .details-block p.asterik {
+	font-size:0.9em;
+	font-style:italic;
+}
+
+.content-tour .tour-block h5, .content-details .details-block h3 {
+     color: #444444;
+     font-size: 1.2em;
+     font-weight: bold;
+     margin: 0pt;
+     padding: 15px 0pt 0pt;
+}
+
+.content-details h1 {
+	font-size:2.5em;
+}
+
+.content-details .details-block div{
+	margin:0 0 0 20px;
+}
+
+.content-details .details-block h4 {
+	font-size:1.2em;
+}
+
+.content-tour .tour-block p {
+     color: #666666;
+     line-height: 1.6em;
+}
+
+.content-tour .tour-block p.fact {
+     background: url("images/map.png") no-repeat scroll 2% 0% transparent;
+     color: #ABABAB;
+     float: right;
+     font-size: 0.8em;
+	 border-radius:10px 0 10px 0;
+     padding: 10px 10px 15px 60px;
+     width: 325px;
+     border:1px solid #ccc;
+	 display:none;
+}
+
+.content-tour .tour-block.right p.fact {
+    float:left;
+}
+
+.content-tour .action p {
+     margin: 0pt;
+     padding: 5px 0pt;
+}
+
+.content-tour .action {
+     background: none repeat scroll 0% 0% #FFFBE1;
+     border: 1px solid #E4DFBE;
+     display: block;
+     float: left;
+     margin: 35px 0pt;
+     padding: 30px 0pt;
+     position: relative;
+     text-align: center;
+     width: 100%;
+}
+
+.content-tour .action a.join-btn {
+     float: none;
+}
+
+.content-tour .tour-block.middle {
+     padding: 5px 0pt;
+}
+
+.content-tour .tour-block .middle, .content-tour .tour-block .bottom  {
+     float: none;
+     font-size: 2em;
+     padding: 15px 0pt;
+     width: 920px;
+}
+
+.content-tour .tour-block.bottom {
+	border:none;
+	padding: 5px 0pt;
+}
+
+.content-tour .tour-block .bottom  {
+	font-size:1.7em;
+}
+.content-tour .tour-block .middle p {
+     font-size: 0.4em;
+}
+
+.content-tour .love {
+     float: left;
+     padding-bottom: 65px;
+     position: relative;
+	 margin-top:55px;
+}
+
+.content-tour .love .love-block {
+     float: left;
+     padding: 150px 15px 0pt;
+     position: relative;
+     text-align: center;
+     width: 150px;
+}
+
+.content-tour .love h2 {
+     color: #444444;
+     font-size: 2em;
+     padding: 25px 0pt;
+     text-align: center;
+     text-shadow: 1px 1px #FFFFFF;
+}
+
+.content-tour .love .love-block h4 {
+     color: #6EAB4C;
+     font-size: 1.1em;
+     height: 35px;
+}
+
+.content-tour .love .love-block p {
+     color: #666666;
+     font-size: 0.8em;
+}
+
+.content-tour .love .bolt {
+     background: url("images/monochrome-icons.png") no-repeat scroll 0px 0pt transparent;
+}
+
+.content-tour .love .tag {
+     background: url("images/monochrome-icons.png") no-repeat scroll -185px 0pt transparent;
+}
+
+.content-tour .love .plane {
+     background: url("images/monochrome-icons.png") no-repeat scroll -370px 0pt transparent;
+}
+
+.content-tour .love .hoop {
+     background: url("images/monochrome-icons.png") no-repeat scroll -555px 0pt transparent;
+}
+
+.content-tour .love .heart {
+     background: url("images/monochrome-icons.png") no-repeat scroll -740px 0pt transparent;
+}
+
+.content-call-to-action	a.join-btn-text	{
+	 background: #2180CE;
+     background: -moz-linear-gradient(center top , #33A0E8, #2180CE) repeat scroll 0pt 0pt transparent;
+	 background: -webkit-linear-gradient(#33A0E8, #2180CE) repeat scroll 0pt 0pt transparent;
+	 background: linear-gradient(#33A0E8, #2180CE) repeat scroll 0pt 0pt transparent;
+     border-color: #2270AB #18639A #0F568B;
+     border-radius: 2px 2px 2px 2px;
+     border-style: solid;
+     border-width: 1px;
+     box-shadow: 0pt 1px 1px rgba(0, 0, 0, 0.3), 0pt 1px 0pt #83C5F1 inset;
+     color: #FFFFFF;
+     display: block;
+     float: left;
+     font-size: 16px;
+     margin: 10px 0pt 10px 0;
+     padding: 7px 15px;
+     text-shadow: 0pt 1px 2px #355782;
+     width: 265px;
+	 text-align: center;
+	 text-decoration: none;
+
+}
+
+a.join-btn-text {
+	 background: #2180CE;
+     background: -moz-linear-gradient(center top , #33A0E8, #2180CE) repeat scroll 0pt 0pt transparent;
+	 background: -webkit-linear-gradient(#33A0E8, #2180CE) repeat scroll 0pt 0pt transparent;
+	 background: linear-gradient(#33A0E8, #2180CE) repeat scroll 0pt 0pt transparent;
+     border-color: #2270AB #18639A #0F568B;
+     border-radius: 2px 2px 2px 2px;
+     border-style: solid;
+     border-width: 1px;
+     box-shadow: 0pt 1px 1px rgba(0, 0, 0, 0.3), 0pt 1px 0pt #83C5F1 inset;
+     color: #FFFFFF;
+     display: block;
+     float: left;
+     font-size: 19px;
+     margin: 0pt 0pt 0pt 24%;
+     padding: 15px 40px;
+     text-shadow: 0pt 1px 2px #355782;
+     width: 241px;
+}
+
+.action a.join-btn-text {
+     float: none;
+     margin: 0pt auto;
+}
+
+a.join-btn-text:hover {
+	 background: #2B97DF;
+     background-image: -moz-linear-gradient(#2B97DF, #2180CE);
+	 background-image: -webkit-linear-gradient(#2B97DF, #2180CE);
+     text-decoration: none;
+	 cursor:pointer;
+}
+
+.tour-block.right a.fine-print {
+    font-size:.9em;
+    font-style:italic;
+    color:#999;
+    text-decoration:none;
+    float:right;
+    display:block;
+    clear:left;
+    text-align:center;
+    width:490px;
+    padding:5px 0;
+}
+
+a.fine-print {
+    font-size:.9em;
+    font-style:italic;
+    color:#999;
+    text-decoration:none;
+    float:left;
+    display:block;
+    clear:left;
+    text-align:center;
+    width:490px;
+    padding:5px 0;
+}

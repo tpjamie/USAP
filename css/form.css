@@ -1,0 +1,130 @@
+.form_wrapper {
+     background: none repeat scroll 0% 0% #FFFFFF;
+     border-left: 1px solid #CCCCCC;
+     border-right: 1px solid #CCCCCC;
+     border-top: 1px solid #CCCCCC;
+     float: left;
+     font-family: Open Sans;
+     position: relative;
+     width: 555px;
+}
+
+#banner.form h1, #banner.form p {
+     font-family: Open Sans;
+}
+
+.trust-block {
+     float: right;
+     font-family: Open Sans;
+     padding: 25px 10px;
+     width: 365px;
+}
+
+.trust-block h3 {
+     color: #69b9dc;
+	 font-family:Rokkitt, Serif;
+     font-size: 1.8em;
+     text-align: center;
+     text-shadow: 1px 0px #FFFFFF;
+}
+
+.trust-block p {
+	 font-size:1em;
+     color: #777;
+	
+}
+
+.form_wrapper form.enroll {
+    
+}
+
+.form_wrapper form.enroll .row {
+     border-bottom: 1px dotted #CCCCCC;
+     padding: 0 20px 35px;
+}
+
+#banner .form_wrapper form.enroll .row h1 {
+     border-bottom: 1px solid #EEEEEE;
+     color: #2180CE;
+     float: left;
+     font-size: 14pt;
+     font-weight: normal;
+     margin: 0pt;
+     padding: 15px 0pt 10pt;
+     width: 100%;
+}
+
+.form_wrapper form.enroll .row .fields_wrap {
+     float: left;
+     padding-top: 0px;
+     width: 600px;
+}
+
+.form_wrapper form.enroll .row .field {
+     font-size: 1.4em;
+     padding-right: 10px;
+     padding-top: 20px;
+}
+
+.form_wrapper form.enroll .row .field input {
+     border-radius: 2px 2px 2px 2px;
+     border: 1px solid #CCCCCC;
+     padding: 8px 5px;
+     width: 300px;
+	 font-size:.9em;
+	 font-family:Open Sans;
+}
+
+.form_wrapper form.enroll .row .field input.phone {
+     padding: 6px 5px;
+     width: 45px;
+}
+
+.form_wrapper form.enroll b {
+     color: #444444;
+     display: block;
+}
+
+.continue {
+     background: none repeat scroll 0% 0% #FFFFFF;
+     border-bottom: 1px solid #CCCCCC;
+     border-left: 1px solid #CCCCCC;
+     border-right: 1px solid #CCCCCC;
+     float: left;
+     padding: 20px;
+     text-align: right;
+     width: 515px;
+	 margin-bottom: 70px;
+}
+
+.continue a.continue-text {
+	 background: #2180CE;
+     background: -moz-linear-gradient(center top , #33A0E8, #2180CE) repeat scroll 0pt 0pt transparent;
+	 background: -webkit-linear-gradient(#33A0E8, #2180CE) repeat scroll 0pt 0pt transparent;
+     border-color: #2270AB #18639A #0F568B;
+     border-radius: 2px 2px 2px 2px;
+     border-style: solid;
+     border-width: 1px;
+     box-shadow: 0pt 1px 1px rgba(0, 0, 0, 0.3), 0pt 1px 0pt #83C5F1 inset;
+     color: #FFFFFF;
+     display: block;
+     float: right;
+     font-family: Open Sans;
+     font-size: 19px;
+     padding: 5px 15px;
+     text-shadow: 0pt 1px 2px #355782;
+     width: 110px;
+}
+
+.continue a.continue-text:hover {
+     background-image: -moz-linear-gradient(#2B97DF, #2180CE);
+     cursor: pointer;
+     text-decoration: none;
+}
+
+.state {
+     background: #d6eafe;
+     border: 1px solid #CCCCCC;
+     padding:10px
+     
+}

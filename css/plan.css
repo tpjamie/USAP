@@ -1,0 +1,168 @@
+/*Enrollment Page */
+
+.beagle-wrap.plan-container {
+	height:645px;
+	margin-bottom:45px;
+}
+
+.beagle-choose {
+     margin: 0px auto;
+     width: 980px;
+}
+
+.plan-wrap {
+     margin:0 0 55px;
+	 padding:65px 0 35px;
+     background: none;
+}
+
+.beagle-choose h1 {
+     font-size: 5.8em;
+     line-height: 0.8em;
+     margin: 0;
+     padding: 25px 0 50px 0;
+     text-align: center;
+	 color:#fff;
+     text-shadow: 1px 0px #CCCCCC;
+}
+
+.form-wrap {
+    width:980px;
+    margin:0 auto;
+}
+
+.plan {
+    float:left;
+    position:relative;
+    width:240px;
+    text-align:center;
+    border:1px solid #eee;
+    
+	background: none repeat scroll 0% 0% #FFFFFF;
+	min-height: 320px;
+}
+
+.plan.selected {
+	background: url("images/selected.png") no-repeat scroll 0 center transparent;
+}
+
+.plan h4 {
+    font-family:Rokkitt;
+    font-size:3em;
+    margin:0;
+}
+
+.plan h5 {
+     color: #444444;
+     font-size: 4em;
+     font-weight: bold;
+     margin: 35px 0px;
+}
+
+.plan.free h5 {
+     font-size: 1.7em;
+     margin:70px 0px 90px;
+}
+
+
+.plan span {
+     display: block;
+     font-size: 1em;
+     font-weight: bold;
+     margin: 0px 0px 15px;
+}
+
+
+.plan span.coverage {
+    font-size:0.7em;
+    margin:15px 0 0 0;
+    
+}
+
+.plan h5 .month {
+     font-size: 0.3em;
+     padding:0;
+     margin:0;
+     display:inline;
+}
+
+.plan span.dollar {
+     display: inline;
+     font-size: 0.4em;
+     position: relative;
+     top: -24px;
+}
+
+.plan ul {
+    list-style-type:none;
+    margin:0 20px;
+    padding:0;
+}
+
+.plan ul li {
+    font-size:0.9em;
+    border-bottom:1px dotted #ccc;
+    margin:2px 0;
+    padding:2px 0;
+	color:#888;
+}
+
+
+.plan.free {
+     background: none repeat scroll 0% 0% #c1e0fe;
+     color:#f5f5f5;
+     border: 3px solid #2180ce;
+     min-height: 335px;
+     top: -10px;
+}
+
+.plan.free ul li, .plan.free h5, .plan.free h4, .plan.free span {
+    color:#444;
+}
+
+.plan a.continue-text, .continue a.to_checkout {
+	 background: #2180CE;
+     background: -moz-linear-gradient(center top , #33A0E8, #2180CE) repeat scroll 0pt 0pt transparent;
+	 background: -webkit-linear-gradient(#33A0E8, #2180CE) repeat scroll 0pt 0pt transparent;
+	 background: linear-gradient(#33A0E8, #2180CE) repeat scroll 0pt 0pt transparent;
+     border-color: #2270AB #18639A #0F568B;
+     border-radius: 2px 2px 2px 2px;
+     border-style: solid;
+     border-width: 1px;
+     box-shadow: 0pt 1px 1px rgba(0, 0, 0, 0.3), 0pt 1px 0pt #83C5F1 inset;
+     color: #FFFFFF;
+     display: block;
+     font-size: 1.2em;
+     margin: 15px 25px;
+     padding: 10px 30px;
+     text-shadow: 0pt 1px 2px #355782;
+     
+}
+
+.plan a.continue-text:hover {
+	cursor:pointer;
+	background: #1d89d0;
+     background: -moz-linear-gradient(center top , #1d89d0, #2180CE) repeat scroll 0pt 0pt transparent;
+	 background: -webkit-linear-gradient(#1d89d0, #2180CE) repeat scroll 0pt 0pt transparent;
+}
+
+.plan a.continue-text.selected {
+	background: #1d89d0;
+     background: -moz-linear-gradient(center top , #13659b, #4f6e83) repeat scroll 0pt 0pt transparent;
+	 background: -webkit-linear-gradient(#13659b, #4f6e83) repeat scroll 0pt 0pt transparent;
+}
+
+
+/*Details page style overrides */
+
+.beagle-wrap.details {
+	background-position:0 -645px;
+	background-repeat: no-repeat;
+    height: auto;
+	}
+.content-details {
+	background:none;
+	margin:0 auto;
+	padding-top:50px;
+	width:980px;
+}

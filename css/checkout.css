@@ -1,0 +1,45 @@
+/*	STYLESHEET FOR FORM CLASS
+ * 	author: Morphius
+ * 
+ */
+
+.form_wrapper{
+	background:#fff;
+}
+
+.form_wrapper form.checkout{
+	
+}
+.row{
+	padding:8px;
+	border-top:1px dotted #ccc;
+	float:right;
+	width:400px;
+}
+.row h1{
+	margin:0;
+	padding:0;
+	font-size:11pt;
+	width:100px;
+	font-weight:normal;
+}
+.form_wrapper form.checkout .row .fields_wrap{
+	
+}
+.form_wrapper form.checkout .row .field{
+	float:left;
+}
+
+.form_wrapper form.checkout b{
+	display:block;
+	color:#666;
+}
+
+#banner.subpage .row p{
+	font-size:0.9em;
+}
+.option{
+	color:#333;
+	font-size:0.8em;
+}
+

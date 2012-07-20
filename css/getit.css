@@ -1,0 +1,271 @@
+/*Styles for my go-getter form */
+
+.bait {
+	 background:#eee;
+     background-image: -moz-linear-gradient(#EEEEEE, #DDDDDD);
+	 background-image: -webkit-linear-gradient(#EEEEEE, #DDDDDD);
+     border-radius: 5px 5px 5px 5px;
+     border: 1px solid #CCCCCC;
+     float: left;
+     padding: 15px 0pt;
+     position: relative;
+     width: 920px;
+}
+
+.blog .bait-wrapper{
+	background:#f5f5f5;
+	width:100%;	
+	float:left;
+	}
+
+.blog .bait {
+	width:1180px;
+	float:none;
+	height:35px;
+	margin:20px auto;	
+	}
+
+.bait:hover {
+	 background: #FFFBE1;
+     
+}
+
+.bait h2 {
+     color: #666;
+     text-transform: uppercase;
+     float:left;
+     position:relative;
+     padding: 6px 0 0 15px;
+	 font-size:1.2em;
+}
+
+.bait ul {
+    float:left;
+    position:relative;
+    margin:0 0 0 20px;
+	padding:0;
+}
+
+.bait ul li {
+    float:left;
+    display:inline;
+    position:relative;
+    margin:0;
+    padding:0;
+    margin-left:10px;
+}
+
+.bait ul li b {
+    position:absolute;
+    left:10px;
+    top:7px;
+    font-size:1.2em;
+    color:#ccc;
+}
+
+.bait ul li input {
+    width:230px;
+    font-size:1.4em;
+    padding:5px 0;
+    line-height:1.2em;
+	border:1px solid #ddd;
+}
+
+
+.getit {
+     background-image: -moz-linear-gradient(#eee, #e7e7e7);
+     background-image: -webkit-linear-gradient(#eee, #e7e7e7);
+     border-radius: 5px 5px 5px 5px;
+     border: 1px solid #bcbcbc;
+     display: block;
+     float: left;
+     padding: 10px 0pt;
+     position: relative;
+     width: 920px;
+     display:none;
+     
+}
+
+.blog .getit {
+	position:static;
+	width:1180px;
+	height:350px;
+	float:none;
+	margin:20px auto;
+	}
+
+.getit .lead-in {
+     float: left;
+     padding: 0pt 15px 0 35px;
+     position: relative;
+     width: 300px;
+}
+
+.getit .lead-in h2 {
+	color:#444;
+	text-transform: uppercase;
+	float: left;
+	position: relative;
+	padding: 20px 0 10px 5px;
+	border-bottom: 1px solid #DDD;
+	text-align: center;
+	width: 300px;
+	font-size:1.5em;
+	}
+
+.getit .lead-in p {
+	  color:#444;
+     float:left;
+text-align: center;
+	width: 300px;
+     position:relative;
+     padding: 2px 0 0 5px;
+	}
+
+.getit .lead-in p.share {
+	font-size:.9em;
+}
+	
+.getit .form_wrapper {
+     background: none repeat scroll 0% 0% transparent;
+     border: medium none;
+     float: left;
+     position: relative;
+	 margin-left:10px;
+}
+
+.getit .form_wrapper form.enroll .row .field {
+padding-top: 10px;
+}
+.getit .form_wrapper form.enroll .row .field b{
+color:#444;
+}
+
+.blog .getit .form_wrapper form.enroll .row .field b{
+color:#444;
+font-weight:normal;
+font-size:0.8em;
+}
+
+.getit .form_wrapper form div.row h1 {
+     display: none;
+}
+
+.getit .form_wrapper form.enroll div.row {
+     border:none;
+}
+
+.getit .form_wrapper form div.field {
+     
+     float: left;
+     padding: 10px;
+     position: relative;
+     width: 240px;
+}
+
+.getit .form_wrapper form div.field.State {
+     clear:left;
+     width: 65px;
+}
+
+.getit .form_wrapper form div.field.Zip {
+     width: 150px;
+}
+
+.getit .form_wrapper form.enroll .row .field input {
+     width: 225px;
+	  border-color:#bcbcbc;
+}
+
+.getit .form_wrapper form.enroll .row .field input.phone {
+     width: 55px;
+	 padding: 8px 5px;
+}
+
+.getit .form_wrapper form.enroll .row .field input.zip {
+     width: 140px;
+}
+
+.getit .form_wrapper form.enroll .row .field .state {
+     padding:11px;
+}
+
+.getit .continue {
+	background:none;
+	border:none;
+	width:250px;	
+	position: absolute;
+top: 70%;
+left: 615px;
+	}
+	
+.bait .continue {
+     background: none repeat scroll 0% 0% transparent;
+     border: medium none;
+     float:left;
+     position:relative;
+     width: auto;
+	 padding:0 10px;
+	}
+	
+.blog .getit .continue{
+left:847px;	
+}
+.bait .continue a.continue-text {
+	width:115px;
+}
+.getit .continue a:hover{
+		text-decoration:underline;
+		}
+	
+.getit img {
+	
+	}
+	
+.getit .error {
+     background: url("images/allert.gif") no-repeat scroll 10px 10px #FFF4F4;
+     border: 1px solid #FFDFDF;
+     color: #000000;
+     display: none;
+     float: right;
+     position:relative;
+     font-size: 0.8em;
+     margin: 10px 10px;
+     padding: 10px 4px 10px 50px;
+     width: 475px;
+}
+
+.getit .error h1 {
+     font-size: 1.5em;
+}
+
+
+.getter .tour-block.last {
+	border-bottom:none;
+}
+
+.getit .tour-block.right a.fine-print {
+    font-size:.9em;
+    font-style:italic;
+    color:#999;
+    text-decoration:none;
+    float:right;
+    display:block;
+    clear:left;
+    text-align:center;
+    width:490px;
+    padding:5px 0;
+}
+
+.getit a.fine-print {
+    font-size:.9em;
+    font-style:italic;
+    color:#999;
+    text-decoration:none;
+    float:left;
+    display:block;
+    clear:left;
+    text-align:center;
+    width:490px;
+    padding:5px 0;
+}

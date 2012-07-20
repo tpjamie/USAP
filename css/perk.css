@@ -1,0 +1,517 @@
+@import url(http://fonts.googleapis.com/css?family=Kameron:400,700);
+@import url(http://fonts.googleapis.com/css?family=Arvo);
+@import url(http://fonts.googleapis.com/css?family=Rokkitt);
+@import url(http://fonts.googleapis.com/css?family=Fugaz+One);
+@import url(http://fonts.googleapis.com/css?family=Coustard);
+#main_wrap {
+     background: none repeat scroll 0% 0% #FFFFFF;
+     font-family: Open Sans;
+}
+
+/*
+Kerning on the fonts
+Anchor the forms
+Juicy Form
+Handdrawn arrows
+REI Eddie Bauer Green for Happiness Block
+Fugaz One
+Nixie One
+*/
+
+h1, h2  {
+	font-family: Rokkitt, serif;
+	font-weight:normal;
+}
+
+h3, h4, h5 {
+	font-weight:normal;
+	color:#69b9dc;
+}
+
+h3 {
+	color:#69b9dc;
+}
+
+#main, .content-perk, .perk {
+     background: none repeat scroll 0% 0% transparent;
+     margin: 0pt auto;
+     padding: 0pt 0pt 20px;
+     width: 980px;
+}
+
+.content-perk-wrap {
+	width:100%;
+	background: url("images/white.png") repeat scroll 0% 0% transparent;
+	margin-bottom: 20px;
+}
+
+#main {
+     background: url("images/header_back.jpg") no-repeat scroll right top transparent;
+}
+
+#banner {
+     background: none repeat scroll 0% 0% transparent;
+     font-family: Open Sans;
+}
+
+#banner.perk h1 {
+     font-size: 3.8em;
+     line-height: 0.8em;
+     margin: 0pt 0pt 50px;
+     padding: 0pt;
+     text-align: center;
+     text-shadow: 1px 0px #CCCCCC;
+}
+
+.action a.join-btn-text {
+    margin-left: 0pt;
+    margin-top: 20px;
+    color: #FFFFFF;
+    display: block;
+    text-align:center;
+    font-size: 1.2em;
+    margin-bottom: 0;
+    margin-right: 0;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    text-shadow: 0 1px 2px #355782;
+    width: 215px;
+}
+
+.content-perk h3 {
+     font-size: 2em;
+     
+     margin: 20px 0pt 10px;
+}
+
+.content-perk h5 {
+     
+     font-size: 1.3em;
+     
+     margin: 0pt 0pt 50px;
+}
+
+
+.perk-lead h3 {
+    color:#69b9dc;
+	font-family:Open Sans;
+    padding-top:0;
+    margin-top:0;
+    font-size:2em;
+    font-weight:300;
+}
+
+.perk-lead2 h3, .happiness h3, .perk-lead1 h3 {
+    
+    padding-top:0;
+    margin-top:0;
+    font-size:1.2em;
+    
+}
+
+.perk-lead2 h5 {
+    
+    padding-top:0;
+    margin-top:30px;
+    font-size:1.2em;
+    
+}
+
+.perk-wrap {
+     background: none;
+}
+
+.perk-wrap2 {
+     /*background: url("images/white.png") repeat scroll 0% 0% transparent;*/
+     border-bottom: 1px solid #EEEEEE;
+}
+
+.perk-lead2 h2, .perk-lead h2, .happiness h2, .perk-lead1 h2 {
+     color: #6FAF53;
+     font-size: 3em;
+     font-weight: normal;
+}
+
+.content-perk h2 {
+	color: #6FAF53;
+     font-size: 3em;
+     font-weight: normal;
+}
+
+.content-perk .bait h2 {
+     font-size: 1.7em;
+}
+
+.perk-lead h1 {
+	color: #6FAF53;
+	padding:10px 0 0 0;
+	margin:0;
+	font-size:7em;
+	letter-spacing:-0.04em;
+	padding-bottom:0;
+	line-height: 1em;
+}
+
+
+.perk-lead2 p, .perk-lead p {
+     font-size: 1em;
+     line-height: 1.8em;
+     margin: 15px 0pt 0pt;
+}
+
+.perk-wrap .perk-lead, .perk-lead2, .perk-lead1{
+     margin: 0pt auto;
+     width: 980px;
+}
+
+.perk-lead2 {
+     padding: 50px 0pt;
+}
+
+
+.perk-lead2 ol {
+     background: none repeat scroll 0% 0% #FFFBE1;
+     border: 1px solid #CCCCCC;
+}
+
+.perk-lead2 ol li {
+     font-size: 1.2em;
+     margin: 20px 10px;
+}
+
+
+.perk-lead p {
+     width: 450px;
+}
+
+.perk-lead {
+     background: url("images/equipment.png") no-repeat scroll 470px center transparent;
+     margin: 30px 0pt;
+	 padding:50px 0;
+}
+
+.bait h2 {
+     padding-left: 55px;
+}
+
+.perk-block {
+     float: left;
+     min-height: 350px;
+     padding: 0px;
+     width: 250px;
+     margin-right:45px;
+}
+
+.perk-block.center {
+    margin-left:45px;
+}
+
+.perk-block.right {
+    margin-left:45px;
+}
+
+.perk-block h2 {
+     color: #6FAF53;
+     font-size: 1.8em;
+     margin: 0pt;
+     padding: 10px 0px 2px 0;
+	 font-weight:bold;
+}
+
+.perk-block p {
+     font-size: 1em;
+     padding: 0;
+     margin:5px 0;
+     position: relative;
+     width: 250px;
+}
+
+
+
+.perk-block img {
+     border: 1px solid #DDDDDD;
+     
+}
+
+.happiness {
+	margin:30px 0 75px;
+}
+
+.happiness-block {
+     background: none repeat scroll 0% 0% #69b9dc;
+     border-radius: 10px 10px 10px 10px;
+     float: left;
+     margin-right: 20px;
+     margin-top:15px;
+     position: relative;
+     width: 300px;
+}
+
+.happiness-block.center {
+    margin-left:20px;
+}
+
+.happiness-block.right {
+    margin-right:0;
+    margin-left:20px;
+}
+
+
+.happiness-block h2 {
+     color: #f5f5f5;
+     display: block;
+     font-size: 1.5em;
+     font-weight: normal;
+     text-align: left;
+	 padding-top:20px;
+	 margin-left:10px;
+}
+
+.happiness-block p {
+    float:left;
+    position:relative;
+	margin:0;
+    padding-left:10px;
+    font-size:0.9em;
+    width:140px;
+    
+}
+
+.happiness-block img {
+    float:right;
+    opacity:0.4;
+    
+}
+
+.content-perk-membership .perk-lead2 img {
+    float:left;
+    
+}
+
+.content-perk-membership .perk-wrap2 {
+	padding:35px 0;
+}
+
+.content-perk-membership .perk-wrap2.local, .content-perk-membership .perk-wrap2.planning {
+    border:none;
+	background:#f5f5f5;
+}
+
+.content-perk-membership .perk-wrap2.protect .perk-lead2 img {
+    float:right;
+}
+
+.content-perk-membership .perk-lead2 h1 {
+    position:absolute;
+    left:0;
+    top:5px;
+    font-size:5em;
+    color:#f5f5f5;
+    text-shadow:1px 0 #777;
+    width:451px;
+    margin:0;
+    padding:25px 0 25px 45px;
+    background:url(images/green-circle.png) no-repeat top left;
+}
+
+
+.content-perk-membership .perk-wrap2.protect .perk-lead2 h1 {
+    left:0;
+    top:0;
+}
+
+.content-perk-membership .perk-wrap2.protect .perk-lead2 h2 {
+    margin-top:100px;
+}
+
+
+.content-perk-membership .perk-wrap2.local .perk-lead2,  .content-perk-membership .perk-wrap2.planning .perk-lead2{
+    width:980px;
+}
+
+.content-perk-membership .perk-wrap2 .perk-lead2 ul {
+    list-style-type:none;
+}
+
+
+.content-perk-membership .perk-wrap2 .perk-lead2 ul li {
+     background: url("images/arrows.png") no-repeat scroll 0% 0% transparent;
+     color: #444;
+     font-family: 'Fugaz One',cursive;
+     margin: 10px 0px;
+     padding-left: 30px;
+     text-shadow:1px 0 #fff;
+}
+
+.content-perk-membership .perk-wrap2 .perk-lead2 h2, .content-perk-membership .perk-wrap2 .perk-lead2 h3, .content-perk-membership .perk-wrap2 .perk-lead2 p, .content-perk-membership .perk-wrap2 .perk-lead2 ul {
+     clear: right;
+     float: right;
+     width: 490px;
+}
+
+.content-perk-membership .perk-wrap2 .perk-lead2 ul {
+    margin:20px 0 0 25px;
+    width:450px;
+    border:1px solid #ccc;
+    box-shadow:10px 10px inset #444;
+    border-radius:0 10px 0 10px;
+    background:#eeeeee;
+}
+
+.content-perk-membership .perk-wrap2.protect .perk-lead2 {
+    width:490px;
+    float:left;
+	position:relative;
+}
+
+.content-perk-membership .perk-wrap2.local .perk-lead2{
+	width:980px;
+	margin:0 auto;
+	position:relative;
+	background:url('images/perk-bike.png')no-repeat;
+}
+
+.content-perk-membership .perk-wrap2.protect {
+	width:980px;
+	margin:0 auto;
+	position:relative;
+	background:url('images/perk-passport.png') no-repeat right center;
+}
+
+.content-perk-membership .perk-wrap2.planning  .perk-lead2{
+	width:980px;
+	margin:0 auto;
+	position:relative;
+	background:url('images/perk-map.png') no-repeat;
+}
+
+.bait ul li b {
+    color:#666;
+}
+
+.bait ul li input {
+	border:1px solid #ccc;
+}
+
+.bait:hover {
+	 background: #FFFBE1;    
+}
+
+.action a.join-btn-text {
+     display: block;
+     float: left;
+     text-decoration: none;
+}
+
+.action span {
+     display: block;    
+     float: left;
+     padding:35px 40px;
+	 font-weight:bold;
+	 font-size:1.5em;
+	 color:#DB6525;
+}
+
+.content-perk .bait {
+     float: none;
+}
+
+
+
+.content-perk {
+     padding-top: 15px;
+}
+
+.content-perk .bait, .content-perk .getit {
+     width: 980px;
+}
+
+.content-split .perk-lead2 {
+    width:470px;
+    float:left;
+    position:relative;
+	padding-right:20px;
+}
+
+.content-split .perk-lead2.right {
+    padding-right:0;
+	padding-left:20px;
+}
+
+.content-split .perk-lead2 h2 {
+    font-size:2em;
+}
+
+.content-split .perk-lead2 h3 {
+    font-size:1.2em;
+}
+
+.content-perk .love {
+     float: left;
+     margin-top: 55px;
+     padding-bottom: 65px;
+     position: relative;
+}
+
+.content-perk .love .love-block {
+     float: left;
+     padding: 150px 10px 0pt;
+     position: relative;
+     text-align: left;
+     width: 175px;
+}
+
+.content-perk .love h2 {
+     color: #444444;
+     font-size: 2.5em;
+     padding: 35px 0pt;
+     text-align: center;
+     text-shadow: 1px 1px #FFFFFF;
+}
+
+.content-perk .love .love-block h4 {
+     color: #69b9dc;
+     font-size: 1.2em;
+     height: 35px;
+}
+
+.content-perk .love .love-block p {
+     color: #666666;
+     font-size: 1em;
+}
+
+.content-perk .love .bolt {
+     background: url("images/monochrome-icons.png") no-repeat scroll 0px 0pt transparent;
+}
+
+.content-perk .love .tag {
+     background: url("images/monochrome-icons.png") no-repeat scroll -185px 0pt transparent;
+}
+
+.content-perk .love .plane {
+     background: url("images/monochrome-icons.png") no-repeat scroll -370px 0pt transparent;
+}
+
+.content-perk .love .hoop {
+     background: url("images/monochrome-icons.png") no-repeat scroll -555px 0pt transparent;
+}
+
+.content-perk .love .heart {
+     background: url("images/monochrome-icons.png") no-repeat scroll -740px 0pt transparent;
+}
+
+.getit {
+	float:none;
+}
+
+.bait {
+	background:#F9F46D;
+	background-image: -moz-linear-gradient(#ece75c, #F9F46D);
+	background-image: -webkit-linear-gradient(#ece75c, #F9F46D);
+}
+
+.bait h2 {
+	color:#444;
+}
