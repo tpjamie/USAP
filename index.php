@@ -147,7 +147,7 @@
                     <img src="images/circles.png" width="300" height="161" />
                 </div>
                 <div class="content-beagle-right">
-                    <h4>How It Works</h4>
+                    <h4>How It Works -- No body knows</h4>
                     <p>How does it work you ask? We've worked out preferred rates with our network of providers and service providers so that you can enjoy up to 80% off on everything from prescription drugs to hearing care.</p>
                 </div>
 
