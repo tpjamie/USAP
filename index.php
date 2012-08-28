@@ -99,6 +99,7 @@
 				
 				<div class="beagle-wrap">
 					<div class="beagle-lead">
+						<h1>The Free USAP Health Card </h1>
 						<h1>The Free USAP Health Cardasdadasd</h1>
 						<h2>Save Thousands On Everyday Medical Expenses. </br> Sponsored By Rascal Flatts</br><span class="white">&nbsp;&plus; $3,000 Accidental Death Benefit Free, Really Free</span></h2>
 						<div class="action">
@@ -147,12 +148,22 @@
                     <img src="images/circles.png" width="300" height="161" />
                 </div>
                 <div class="content-beagle-right">
+<<<<<<< .mine
 
                     <h4>Dreamweaver: Activate</h4>
+=======
+                    <h4>How It Works -- No body knows</h4>
+
+>>>>>>> .theirs
                     <p>How does it work you ask? We've worked out preferred rates with our network of providers and service providers so that you can enjoy up to 80% off on everything from prescription drugs to hearing care.</p>
 
                     <h4>How It Works</h4>
                     <p>It's magic.</p>
+<<<<<<< .mine
+
+=======
+
+>>>>>>> .theirs
                 </div>
 
 				<div class="content-beagle-left">
