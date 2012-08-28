@@ -105,7 +105,7 @@
 						
                             <div class="content-buttons">
                                 <a href="plans" onclick="_gaq.push(['_trackEvent','Learn More', 'Button', 'Above The Fold']);" class="join-btn-text learn" >I changed this button</a>
-                                <a href="plans" onclick="_gaq.push(['_trackEvent','Call To Action', 'Button', 'Above The Fold']);" class="join-btn-text">Button Change!</a>
+                                <a href="plans" onclick="_gaq.push(['_trackEvent','Call To Action', 'Button', 'Above The Fold']);" class="join-btn-text">I AM A BUTTON</a>
                                     <!--
                                     <a id="getit-form 2"></a>
                                     <div class="bait 2">
@@ -147,8 +147,13 @@
                     <img src="images/circles.png" width="300" height="161" />
                 </div>
                 <div class="content-beagle-right">
+<<<<<<< HEAD
                     <h4>How It Works -- No body knows</h4>
                     <p>How does it work you ask? We've worked out preferred rates with our network of providers and service providers so that you can enjoy up to 80% off on everything from prescription drugs to hearing care.</p>
+=======
+                    <h4>How It Works</h4>
+                    <p>It's magic.</p>
+>>>>>>> a524f9330bde67a74c997e329d2c2258a1efcd4c
                 </div>
 
 				<div class="content-beagle-left">
