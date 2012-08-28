@@ -105,7 +105,7 @@
 						
                             <div class="content-buttons">
                                 <a href="plans" onclick="_gaq.push(['_trackEvent','Learn More', 'Button', 'Above The Fold']);" class="join-btn-text learn" >I changed this button</a>
-                                <a href="plans" onclick="_gaq.push(['_trackEvent','Call To Action', 'Button', 'Above The Fold']);" class="join-btn-text">Sign Up Now</a>
+                                <a href="plans" onclick="_gaq.push(['_trackEvent','Call To Action', 'Button', 'Above The Fold']);" class="join-btn-text">Button Change!</a>
                                     <!--
                                     <a id="getit-form 2"></a>
                                     <div class="bait 2">
